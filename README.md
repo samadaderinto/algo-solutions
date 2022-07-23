@@ -1,2 +1,2 @@
 # algo-solutions
-all leetcode,hakerank,hakerearth coding problem solutions
+all leetcode,hakerrank,hakerearth coding problem solutions
