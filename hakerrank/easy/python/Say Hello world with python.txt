@@ -1,0 +1,58 @@
+Question  
+
+    Here is a sample line of code that can be executed in Python:
+
+       print("Hello, World!")
+
+    You can just as easily store a string as a variable and then print it to stdout:
+
+       my_string = "Hello, World!"
+       print(my_string)
+
+    The above code will print Hello, World! on your screen. Try it yourself in your editor
+
+    Input Format:
+
+       You do not need to read any input in this challenge.
+
+    Output Format:
+    
+       Print Hello, World! to console.
+
+
+Solutions
+
+    Python 3
+
+      Step 1: type "Hello, World" into print("")
+
+    Final Result
+    
+     print("Hello, World")
+
+
+    Python 2
+
+      Step 1: type "Hello, World" into print ""
+
+    Final Result
+    
+       print "Hello, World"
+
+    Pypy 3
+
+      Step 1: type "Hello, World" into print("")
+
+    Final Result
+
+        if __name__ == '__main__':
+           print("Hello, World")  
+
+    Pypy 2
+
+      Step 1: type "Hello, World" into print ""
+
+    Final Result
+    
+        if __name__ == '__main__':
+           print "Hello, World"
